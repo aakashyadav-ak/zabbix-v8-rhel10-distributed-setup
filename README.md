@@ -91,5 +91,5 @@ Follow the documents in order.
 
 ## Author
 
-**Aakash Yadav**: Linux and monitoring support enthusiast, preparing for RHCSA.
+**Aakash Yadav**
 GitHub: [aakashyadav-ak](https://github.com/aakashyadav-ak)
