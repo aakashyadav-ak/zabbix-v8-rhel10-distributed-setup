@@ -4,4 +4,6 @@
 *.pem
 .vscode/
 Thumbs.db
-configs/
+
+# Local-only configuration files
+local-only-configs/
