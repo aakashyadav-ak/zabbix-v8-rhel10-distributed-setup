@@ -74,8 +74,8 @@ Firewall rules are limited to the source that needs each port. On `db01`, port 3
 
 | Phase | Document | Result |
 |---|---|---|
-| 0 | [Prerequisites](01-prerequisites.md) | Static IP, hostname, time, firewall, SELinux |
-| 1 | [Database server](02-database-install.md) | MySQL on `db01` with the `zabbix` database |
-| 2 | [Server and frontend](03-server-frontend-install.md) | Zabbix 8 running on `zbx01` |
-| 3 | [Add hosts and agent](04-add-hosts-and-agent.md) | Monitored hosts reporting to Zabbix |
-| 4 | [Troubleshooting](05-troubleshooting.md) | Troubleshooting for errors |
+| 01 | [Prerequisites](01-prerequisites.md) | Static IP, hostname, time, firewall, SELinux |
+| 02 | [Database server](02-database-install.md) | MySQL on `db01` with the `zabbix` database |
+| 03 | [Server and frontend](03-server-frontend-install.md) | Zabbix 8 running on `zbx01` |
+| 04 | [Add hosts and agent](04-add-hosts-and-agent.md) | Monitored hosts reporting to Zabbix |
+| 05 | [Troubleshooting](05-troubleshooting.md) | Troubleshooting for errors |
