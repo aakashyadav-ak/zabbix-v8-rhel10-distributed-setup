@@ -1,0 +1,6 @@
+# Local lab file for db01.
+# Install as: /etc/my.cnf.d/zabbix.cnf   (then: sudo systemctl restart mysqld)
+# This is an extra file. Do not replace the stock mysql-server.cnf.
+[mysqld]
+bind-address=0.0.0.0
+skip-networking=0
