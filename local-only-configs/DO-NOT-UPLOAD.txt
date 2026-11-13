@@ -1,7 +1,0 @@
-These four files are for your local lab only. They contain a database password.
-Do not upload this folder to GitHub.
-
-zabbix.cnf          -> db01   /etc/my.cnf.d/zabbix.cnf
-zabbix_server.conf  -> zbx01  /etc/zabbix/zabbix_server.conf
-zabbix.conf.php     -> zbx01  /etc/zabbix/web/zabbix.conf.php  (owner apache:apache, mode 600)
-zabbix_agentd.conf  -> db01   /etc/zabbix/zabbix_agentd.conf
