@@ -1,9 +1,0 @@
-*.env
-*password*
-*.key
-*.pem
-.vscode/
-Thumbs.db
-
-# Local-only configuration files
-local-only-configs/
